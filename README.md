@@ -10,7 +10,7 @@
 lovechouhan17/lovechouhan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://komarev.com/ghpvc/?username=<your-github-username>&label=Profile+Views&color=2f81f7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=<lovechouhan17>&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
